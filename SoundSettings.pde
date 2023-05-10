@@ -10,7 +10,6 @@ boolean muted = false;
 void playPopSound() {
   if (muted == false) {
     File = new SoundFile(this, "pop.wav");
-    File.play();
   }
 }
 

@@ -82,7 +82,7 @@ void keyPressed() {
  
   //Using s key, we can save a screenshot
   if (key == 's' || key == 'S') {
-    // we save it to the local folder - also use day, hour, minute, etc...
+    // we save it to the local folder - also use day, hour, minute, etc... - couldn't find a way to save to screenshots folder yet :(
     save(year()+"_"+month()+"_"+day()+"_"+hour()+""+minute() + ".png");
     playScreenshotSound(); // playing the sound
   }
