@@ -1,1 +1,2 @@
-A short program written in processing to generate a display of fireworks as a completion requirement in programming section Unit 3 - of TEJ3MR - Computer Engineering Grade 11
+Fireworks Simulation program made in processing as a final unit completion mark - credits go to Lucas Leung (mrworldwide1) for assisting with sounds and firework explosion on click. 
+
